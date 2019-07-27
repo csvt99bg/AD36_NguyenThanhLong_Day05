@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AD36_NguyenThanhLong_Day05</string>
+
+    <string name="ed_User">UserName</string>
+    <string name="ed_Pass">PassWord</string>
+    <string name="bt_Login">Login</string>
+    <string name="bt_SignUp">Sign Up</string>
+
+    <string name="confirm">Confirm Pass</string>
+    <string name="creat">Creat Account</string>
+
+</resources>
